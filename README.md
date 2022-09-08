@@ -28,3 +28,4 @@ Cases:
     
   Put vulnerable endpoint in CORS_PoC.html and check the response.
   
+  Refer: https://portswigger.net/web-security/cors
